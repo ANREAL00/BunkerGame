@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.116,D:\Univesity\Lab Projects Anton\cours\delphi\ManualUnit.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.804,D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\Unit1.dfm=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\EditRecordUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.445,D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\Unit1.dfm=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\FilterUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\Unit1.dfm=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\MainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\Unit1.dfm=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\StartUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.512,D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\Unit2.pas=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\InstructionUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.908,=D:\Univesity\Lab Projects Anton\cours\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.975,D:\Univesity\Lab Projects Anton\cours\delphi\EditRecordUnit.dfm=D:\Univesity\Lab Projects Anton\cours\delphi\SeedEnterUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.968,=D:\Univesity\Forms\Lab1.1\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.512,D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\Unit2.dfm=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\InstructionUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.523,D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\ManualUnit.pas=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\InstructionUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.245,D:\Univesity\Lab Projects Anton\cours\delphi\ConnectUnit.dfm=D:\Univesity\Lab Projects Anton\cours\delphi\FilterUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.245,D:\Univesity\Lab Projects Anton\cours\delphi\ConnectUnit.pas=D:\Univesity\Lab Projects Anton\cours\delphi\FilterUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,D:\Univesity\Lab Projects Anton\cours\delphi\RuleUnit.dfm=D:\Univesity\Lab Projects Anton\cours\delphi\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.684,D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\InstructionUnit.dfm=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\DeveloperUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,D:\Univesity\Lab Projects Anton\cours\delphi\RuleUnit.pas=D:\Univesity\Lab Projects Anton\cours\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.843,D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\Unit3.pas=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\InstructionUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.684,D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\InstructionUnit.pas=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\DeveloperUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.120,D:\Univesity\Lab Projects Anton\cours\delphi\PreparationUnit.pas=D:\Univesity\Lab Projects Anton\cours\delphi\AddRecordUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.523,D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\ManualUnit.dfm=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\InstructionUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.621,D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\AddRecordUnit.pas=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.968,D:\Univesity\Lab Projects Anton\cours\delphi\CardSystem.pas=D:\Univesity\Lab Projects Anton\cours\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.719,=D:\Univesity\Lab Projects Anton\cours\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.804,D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\Unit1.pas=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\EditRecordUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.674,=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.243,=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.583,=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.445,D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\Unit1.pas=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\FilterUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.120,D:\Univesity\Lab Projects Anton\cours\delphi\PreparationUnit.dfm=D:\Univesity\Lab Projects Anton\cours\delphi\AddRecordUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.621,D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\AddRecordUnit.dfm=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.324,=D:\Univesity\Forms\Lab1.1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.378,D:\Univesity\Lab Projects Anton\cours\delphi\Unit1.dfm=D:\Univesity\Lab Projects Anton\cours\delphi\FinalUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.115,D:\Univesity\Lab Projects Anton\cours\delphi\GameTypesUnit.pas=D:\Univesity\Lab Projects Anton\cours\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.843,D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\Unit3.dfm=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\InstructionUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.188,=C:\Users\ANREAL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.068,=D:\Univesity\Lab Projects Anton\cours\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.378,D:\Univesity\Lab Projects Anton\cours\delphi\Unit1.pas=D:\Univesity\Lab Projects Anton\cours\delphi\FinalUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.777,=D:\Univesity\Lab Projects Anton\cours\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.980,D:\Univesity\Forms\Lab1.1\Unit1.dfm=C:\Users\ANREAL\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\Unit1.pas=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\StartUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\Unit1.pas=D:\Univesity\Lab Projects Anton\4. LabFour\Lab4.1\delphi\MainUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.898,D:\Univesity\Forms\Lab1.1\Project1.dproj=C:\Users\ANREAL\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.980,D:\Univesity\Forms\Lab1.1\Unit1.pas=C:\Users\ANREAL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.975,D:\Univesity\Lab Projects Anton\cours\delphi\EditRecordUnit.pas=D:\Univesity\Lab Projects Anton\cours\delphi\SeedEnterUnit.pas</Transaction>
+  </Transactions>
+</BorlandProject>
